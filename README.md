@@ -1,2 +1,2 @@
 # Machine-Learning
-my example anout machine learning
+my example about machine learning
