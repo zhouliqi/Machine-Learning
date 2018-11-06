@@ -3,4 +3,4 @@
 
 #python数据科学的代码
 ========================================
-[者GitHub：](https://github.com/jakevdp/PythonDataScienceHandbook)
+[作者GitHub：](https://github.com/jakevdp/PythonDataScienceHandbook)
