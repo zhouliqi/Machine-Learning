@@ -1,0 +1,11 @@
+1：画布：画布就是turtle为我们展开用于绘图区域，我们可以设置它的大小和初始位置。
+	
+turtle.screensize(canvwidth=None, canvheight=None, bg=None)，
+参数分别为画布的宽(单位像素), 高, 背景颜色。
+
+turtle.setup(width=0.5, height=0.75, startx=None, starty=None)
+
+参数：width, height: 输入宽和高为整数时, 表示像素; 为小数时, 表示占据电脑屏幕的比例
+
+(startx, starty): 这一坐标表示矩形窗口左上角顶点的位置, 如果为空,则窗口位于屏幕中心
+
